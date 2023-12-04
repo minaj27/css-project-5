@@ -1,0 +1,10 @@
+div{
+    border: 5px solid red;
+    height: 500px;
+    overflow: auto;
+}
+img{
+    position:  fixed ;
+    left: 100px;
+    top: 100px;
+}
